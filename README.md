@@ -1,3 +1,6 @@
+# currently broken.  Below is a link for working firmware.
+https://github.com/KeyboardHoarders/zmk-config-lily58mx
+
 ## My shop keyboard-hoarders.com and keyboardhoarders.etsy.com
 ![main](https://github.com/user-attachments/assets/dc59b283-8dd3-4d07-921d-e024ac4c1432)
 
